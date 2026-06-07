@@ -22,7 +22,7 @@ export default function App() {
       <PriceCalc />
       <StyleQuiz />
       <Order />
-      <Gifts />
+      {/* <Gifts /> */}
       <About />
       <Reviews />
       <Contact />

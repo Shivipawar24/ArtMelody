@@ -15,7 +15,7 @@ export default function Hero() {
       </div>
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-        <div className="inline-flex items-center gap-2 px-4 py-2 bg-pink-500/10 border border-pink-500/30 rounded-full mb-8">
+        <div className="inline-flex items-center gap-2 px-4 py-2 bg-pink-500/10 border border-pink-500/30 rounded-full mt-10 mb-2">
           <Sparkles className="w-4 h-4 text-pink-400" />
           <span className="text-sm text-pink-300 font-medium">Crafted with love, delivered with pride</span>
         </div>

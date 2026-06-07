@@ -4,51 +4,39 @@ import { Sparkles } from 'lucide-react'
 const galleryImages = {
   All: null,
   Couple: [
-    '/wallart/wallArt (2).jpg',
-    '/wallart/wallArt.jpg',
-    '/wallart/wallArt (4).jpg',
-    '/wallart/wallart (3).jpg',
-    '/wallart/wallArt (5).jpg',
+    '/commisonArtwork/commisionArt (2).jpg',
+
   ],
   Kids: [
     '/babySketch/babysketch (3).jpg',
     '/babySketch/babySketch.jpg',
     '/babySketch/babysketch (2).jpg',
   ],
+ 
+ 
   Pencil: [
-    '/wallart/wallArt.jpg',
-    '/wallart/wallArt (2).jpg',
-    '/wallart/wallart (3).jpg',
-    '/wallart/wallArt (4).jpg',
-    '/penart/penart_1.jpg',
-  ],
-  'B&W': [
-    '/penart/penart_1.jpg',
-    '/wallart/wallart (6).jpg',
-    '/wallart/wallart (7).jpg',
-  ],
-  Caricature: [
     '/commisonArtwork/commisionArt.jpg',
     '/commisonArtwork/commisionArt2.jpg',
     '/commisonArtwork/commisionArt_6.jpg',
     '/commisonArtwork/commisionArt_9.jpg',
-  ],
-  'Color Portrait': [
+    '/wallart/wallArt (5).jpg',
+
     '/commisonArtwork/commisionArt12.jpg',
     '/commisonArtwork/commisionArt13.jpg',
     '/commisonArtwork/commisionArt_10.jpg',
     '/commisonArtwork/commisionArt_14.jpg',
   ],
-  Pet: [
-    '/babySketch/babySketch.jpg',
-    '/babySketch/babysketch (2).jpg',
-    '/commisonArtwork/commisionArt (2).jpg',
+  'Color Portrait': [
+    '/penart/penart_1.jpg',
+    '/wallart/wallart (6).jpg',
+    '/wallart/wallart (7).jpg',
+    '/wallart/wallArt (4).jpg',
+    '/wallart/wallArt.jpg',
+
+
   ],
-  Bollywood: [
-    '/commisonArtwork/commisionArt13.jpg',
-    '/commisonArtwork/commisionArt12.jpg',
-    '/commisonArtwork/commisionArt_10.jpg',
-  ],
+ 
+ 
 }
 
 const primaryCategories = ['All', 'Couple', 'Kids', 'Pencil']
